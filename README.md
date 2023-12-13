@@ -4,14 +4,17 @@ HI-2022-Final- HI 2022 Final Exploring Caesarian Section Predictive Models and V
 
 
 **#DATA SOURCE:**
+
 Amin,Muhammad and Ali,Amir. (2018). Caesarian Section Classification Dataset. UCI Machine Learning Repository. https://doi.org/10.24432/C5N59X.
 
 
 **#DESCRIPTION:**
+
 This dataset contains information about caesarian section results of 80 pregnant women with the most important characteristics of delivery problems in the medical field",().
 
 
 **#ADDITIONAL VARAIBLE INFORMATION:**
+
 We choose age, delivery number, delivery time, blood pressure and heart status.
 We classify delivery time to Premature, Timely and Latecomer. As like the delivery time we consider blood pressure in three statuses of Low, Normal and High moods. Heart Problem is classified as apt and inept.
 
@@ -26,14 +29,17 @@ We classify delivery time to Premature, Timely and Latecomer. As like the delive
 
 
 **#DESCREPENCIES:**
+
 The feature type states integer, but the data type returned as object during data exploration. Also, the repetitive reloading and decoding code snippet before the third data visualization is due to a code in the 2nd data visualization that disrupts the code flow. 
 
 
 **#USAGE:**
+
 This "HI 2022 Final Exploring Caesarian Section Predictive Models and Visualizations" project provides a foundation for understanding the predictive capacities, but further research and exploration is needed in order to build an accuracte and fucntional model.
 
 
 **#COMPARATIVE ANALYSIS:**
+
 Mock Caesarian Section Decision Tree Model:
 Accuracy: 0.44
 Precision: 0.57
@@ -48,9 +54,11 @@ The Naive Bayes Predictive Model demonstrated the best performace. This model di
 
 
 **#LIMITATION:**
+
 Constraints includes lack of data quantity, lack of data quality, limited attribute selection, and limited model exploration or analysis.
 
 
 **#LICENSE:**
+
 This dataset is licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0) license.
 This allows for the sharing and adaptation of the datasets for any purpose, provided that the appropriate credit is given.
